@@ -1,9 +1,4 @@
 # Hi, I'm Alfie :wave:
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlfieRichardson&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfieRichardson&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### About Me: 
 - :mortar_board: I have recently graduated Swansea University with a 2:1 in MSci Advanced Computer Science.
